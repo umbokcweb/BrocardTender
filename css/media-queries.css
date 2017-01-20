@@ -1,0 +1,1550 @@
+@media screen and (max-width: 1200px) {
+  section.head {
+    height: 570px;
+    padding-top: 10%;
+  }
+  section.head .cause .maincause {
+    margin-left: 6%;
+  }
+  section.head .cause .secondblock {
+    margin-right: 10%;
+  }
+  section.fiveth .videosflow.videos video.left {
+    left: 1%;
+  }
+  section.fiveth .arrows .hoverzone-left {
+    left: 1%;
+  }
+  section.sixth .pen {
+    margin-left: 14px;
+  }
+}
+@media screen and (max-width: 992px) {
+  section.head {
+    background-size: cover;
+    background-position: center center;
+    padding-top: 10%;
+  }
+  section.head .number p {
+    margin-left: 35%;
+  }
+  section.head .cause .maincause {
+    margin-left: 4%;
+  }
+  section.second {
+    margin-top: 0;
+  }
+  section.third {
+    background-position: center center;
+    background-size: cover;
+  }
+  section.fourth .description {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  section.fourth .description h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  section.fiveth {
+    height: 550px;
+    padding-top: 6%;
+  }
+  section.fiveth .videosflow.videos video.left {
+    left: 10%;
+  }
+  section.fiveth .arrows .hoverzone-left {
+    left: 10%;
+  }
+  section.sixth {
+    height: 560px;
+    padding-top: 50px;
+  }
+  section.sixth .form .title h2 {
+    font-size: 17px;
+  }
+  section.sixth .form .title p {
+    font-size: 10px;
+  }
+  section.sixth .pen {
+    margin-left: 0;
+  }
+  section.eighth .imageflow img.right {
+    left: 66.5%;
+  }
+}
+@media screen and (max-width: 767px) {
+  section.head .number p {
+    margin-left: 35%;
+    font: 12px/16px 'Ubuntu', sans-serif;
+  }
+  section.head .title p {
+    font: 18px/24px 'Ubuntu', sans-serif;
+  }
+  section.head .cause .maincause {
+    margin-left: 7%;
+  }
+  section.head .cause .secondblock {
+    margin-right: 13%;
+  }
+  section.second {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  section.third {
+    padding-top: 40px;
+  }
+  section.third .form {
+    margin-top: 30px;
+  }
+  section.third .form .cards .card form .titleform .titletext {
+    width: 55%;
+  }
+  section.fourth {
+    height: 660px;
+    padding-top: 15px;
+  }
+  section.fourth .title {
+    padding-bottom: 15px;
+  }
+  section.fourth .card {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    margin: 0 30px;
+  }
+  section.fourth .card .all {
+    position: relative;
+  }
+  section.fourth .bgwhite {
+    -webkit-box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+    box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+    background: #fff;
+    padding-bottom: 30px;
+  }
+  section.fourth .click {
+    height: 40px;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  section.fourth .click .icon {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 10px 0 0 30%;
+    background: url("../img/smallicons.png") no-repeat -81px -53px;
+  }
+  section.fourth .click p {
+    margin-right: 20px;
+    padding-left: 60px;
+    color: #aeaeae;
+    font: 14px/14px 'Ubuntu', sans-serif;
+    line-height: 40px;
+  }
+  section.fourth .cause {
+    height: 420px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  section.fourth .cause .cause1 .num,
+  section.fourth .cause .cause2 .num,
+  section.fourth .cause .cause3 .num,
+  section.fourth .cause .cause4 .num {
+    top: 30%;
+    left: 4%;
+  }
+  section.fourth .cause .cause1 p,
+  section.fourth .cause .cause2 p,
+  section.fourth .cause .cause3 p,
+  section.fourth .cause .cause4 p {
+    padding-right: 60px;
+    padding-left: 0;
+    padding-top: 1%;
+    width: 60%;
+    font-size: 18px;
+  }
+  section.fourth .description {
+    display: none;
+    position: absolute;
+    top: 105px;
+    height: 320px;
+    background: #f1f1f1;
+    padding: 10px 50px;
+  }
+  section.fourth .description .angle {
+    background: url("../img/angle.png") no-repeat;
+    width: 157px;
+    height: 107px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+  }
+  section.fourth .description .text {
+    z-index: 10;
+  }
+  section.fourth .description .text h2 {
+    font: 20px/24px 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-right: 40%;
+  }
+  section.fourth .description .text p {
+    font: 18px/20px 'Ubuntu', sans-serif;
+    padding-top: 0px;
+    padding-right: 30px;
+  }
+  section.fourth .description .text.text-one {
+    display: none;
+  }
+  section.fourth .description .text.text-two {
+    display: none;
+  }
+  section.fourth .description .text.text-three {
+    display: none;
+  }
+  section.fourth .description .text.text-four {
+    display: none;
+  }
+  section.sixth {
+    height: 560px;
+    padding-top: 50px;
+  }
+  section.sixth .bgform {
+    background: transparent;
+    width: 100%;
+    margin: 0;
+  }
+  section.sixth .bgformmobile {
+    background: #fff;
+    -webkit-box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+    -moz-box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+    box-shadow: 0 0 23px 0 rgba(0,0,0,0.15);
+  }
+  section.sixth .form {
+    height: 420px;
+    width: 100%;
+    padding-left: 0;
+  }
+  section.sixth .form .title h2 {
+    font: 18px/20px 'Ubuntu', sans-serif;
+  }
+  section.sixth .form .title p {
+    font: 14px/16px 'Ubuntu', sans-serif;
+    padding-right: 20px;
+  }
+  section.sixth .form .title hr {
+    margin-top: 30px;
+    margin-bottom: -2px;
+  }
+  section.sixth .form form .input input {
+    border: 1px solid #aeaeae;
+    padding-left: 15px;
+    margin-left: 3%;
+  }
+  section.sixth .form form .input input:nth-child(2) {
+    float: right;
+    margin-right: 40px;
+  }
+  section.sixth .form form .input button {
+    height: 35px;
+    width: 120px;
+    margin-top: 0;
+  }
+  section.sixth .form .attention {
+    padding-left: 30px;
+  }
+  section.sixth .form .devices {
+    bottom: -70px;
+    left: -60px;
+    background-size: 90%;
+  }
+  section.sixth .pen {
+    display: none;
+  }
+  section.seventh {
+    height: 552px;
+    background: url("../img/7m_bg.jpg") no-repeat center 0;
+    background-size: cover;
+    padding-top: 50px;
+  }
+  section.seventh .desk {
+    display: none;
+  }
+  section.seventh .title h2 {
+    text-transform: none;
+    font: 18px/20px 'Ubuntu', sans-serif;
+  }
+  section.seventh .title p {
+    font: 18px/20px 'Ubuntu', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  section.seventh .mobile {
+    display: block;
+  }
+  section.seventh .mobile .stages .stage1,
+  section.seventh .mobile .stages .stage2,
+  section.seventh .mobile .stages .stage3,
+  section.seventh .mobile .stages .stage4 {
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+    width: 100%;
+    height: 20px;
+  }
+  section.seventh .mobile .stages .stage1 .bg,
+  section.seventh .mobile .stages .stage2 .bg,
+  section.seventh .mobile .stages .stage3 .bg,
+  section.seventh .mobile .stages .stage4 .bg {
+    position: absolute;
+    left: 30%;
+    margin-left: -20px;
+    background: url("../img/sevenicons.png") no-repeat;
+    width: 40px;
+    height: 40px;
+  }
+  section.seventh .mobile .stages .stage1 .point,
+  section.seventh .mobile .stages .stage2 .point,
+  section.seventh .mobile .stages .stage3 .point,
+  section.seventh .mobile .stages .stage4 .point {
+    position: absolute;
+    left: 50%;
+    margin-left: -17.5px;
+  }
+  section.seventh .mobile .stages .stage1 .point .hr,
+  section.seventh .mobile .stages .stage2 .point .hr,
+  section.seventh .mobile .stages .stage3 .point .hr,
+  section.seventh .mobile .stages .stage4 .point .hr {
+    position: absolute;
+    display: block;
+    top: 40px;
+    left: 20px;
+    height: 50px;
+    background: #fff;
+    width: 1px;
+  }
+  section.seventh .mobile .stages .stage1 .point .circle,
+  section.seventh .mobile .stages .stage2 .point .circle,
+  section.seventh .mobile .stages .stage3 .point .circle,
+  section.seventh .mobile .stages .stage4 .point .circle {
+    position: absolute;
+    top: 0px;
+    border: 1px solid #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding: 4px;
+  }
+  section.seventh .mobile .stages .stage1 .point .circle p,
+  section.seventh .mobile .stages .stage2 .point .circle p,
+  section.seventh .mobile .stages .stage3 .point .circle p,
+  section.seventh .mobile .stages .stage4 .point .circle p {
+    color: #f54663;
+    background: #fff;
+    width: 30px;
+    height: 30px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    text-align: center;
+    font: bold 16px 'Ubuntu';
+    line-height: 30px;
+  }
+  section.seventh .mobile .stages .stage1 p.text,
+  section.seventh .mobile .stages .stage2 p.text,
+  section.seventh .mobile .stages .stage3 p.text,
+  section.seventh .mobile .stages .stage4 p.text {
+    position: absolute;
+    left: 63%;
+    width: 55%;
+    font: 16px/16px 'Ubuntu', sans-serif;
+    color: #fff;
+    float: right;
+  }
+  section.seventh .mobile .stages .stage2 {
+    top: 70px;
+  }
+  section.seventh .mobile .stages .stage2 .bg {
+    background-position: 0 -40px;
+    left: 73%;
+  }
+  section.seventh .mobile .stages .stage2 p.text {
+    left: -20%;
+    text-align: right;
+  }
+  section.seventh .mobile .stages .stage3 {
+    top: 140px;
+  }
+  section.seventh .mobile .stages .stage3 .bg {
+    background-position: -40px 0;
+  }
+  section.seventh .mobile .stages .stage4 {
+    top: 210px;
+  }
+  section.seventh .mobile .stages .stage4 .bg {
+    background-position: -40px -40px;
+    left: 73%;
+  }
+  section.seventh .mobile .stages .stage4 p.text {
+    left: -20%;
+    text-align: right;
+  }
+  section.seventh .mobile .stages .stage4 .point .hr {
+    display: none;
+  }
+  section.neinth {
+    height: 700px;
+    background: url("../img/9m_bg.jpg") no-repeat center 0;
+    background-size: cover;
+    padding-top: 10px;
+  }
+  section.neinth .title h2 {
+    font: 18px/24px 'Ubuntu', sans-serif;
+  }
+  section.neinth .title3,
+  section.neinth .title2 {
+    padding-top: 20px;
+  }
+  section.neinth .title3 p,
+  section.neinth .title2 p {
+    font: 14px/20px 'Ubuntu', sans-serif;
+  }
+  section.neinth .blockone {
+    height: 270px;
+  }
+  section.neinth .blockone .withouts {
+    margin: 20px 0 0;
+  }
+  section.neinth .blockone .withouts .without1,
+  section.neinth .blockone .withouts .without3 {
+    padding-left: 60px;
+  }
+  section.neinth .blockone .withouts .without1 .bg,
+  section.neinth .blockone .withouts .without3 .bg {
+    margin-left: 0;
+  }
+  section.neinth .blockone .withouts .without2,
+  section.neinth .blockone .withouts .without4 {
+    padding-right: 60px;
+  }
+  section.neinth .blockone .withouts .without2 .bg,
+  section.neinth .blockone .withouts .without4 .bg {
+    margin-left: -40px;
+  }
+  section.neinth .blockone .withouts .without3 .bg {
+    top: 10px;
+  }
+  section.neinth .blockone .withouts p {
+    font-size: 14px;
+  }
+  section.neinth .blocktwo {
+    position: relative;
+    height: 265px;
+    margin: 0 -15px;
+  }
+  section.neinth .blocktwo .title3 {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  section.neinth .blocktwo .title3 p {
+    padding: 0;
+  }
+  section.neinth .blocktwo form .input {
+    padding-top: 0;
+  }
+  section.neinth .blocktwo form .input input {
+    margin-left: 8%;
+    border: 1px solid #aeaeae;
+    margin-top: 15px;
+  }
+  section.neinth .blocktwo form .input button {
+    position: absolute;
+    left: 50%;
+    bottom: -110px;
+    margin-left: -65px;
+    float: none;
+  }
+  section.neinth .blocktwo .attention {
+    position: absolute;
+    width: 100%;
+    margin-left: -15px;
+    margin-right: -15px;
+    bottom: -50px;
+  }
+  section.neinth .blocktwo .attention p {
+    position: relative;
+    top: 10px;
+    padding-top: 0px;
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.tenth {
+    height: 660px;
+    background: url("../img/10m_bg.jpg") no-repeat center 0;
+    background-size: cover;
+    padding-top: 45px;
+  }
+  section.tenth .contacts {
+    width: 60%;
+    float: none;
+    margin-left: 20%;
+  }
+  section.tenth .contacts .title,
+  section.tenth .contacts .geo,
+  section.tenth .contacts .num,
+  section.tenth .contacts .mail {
+    height: 45px;
+  }
+  section.tenth .contacts .title .icon,
+  section.tenth .contacts .geo .icon,
+  section.tenth .contacts .num .icon,
+  section.tenth .contacts .mail .icon {
+    line-height: 40px;
+    padding-left: 20px;
+  }
+  section.tenth .contacts .title p,
+  section.tenth .contacts .geo p,
+  section.tenth .contacts .num p,
+  section.tenth .contacts .mail p {
+    line-height: 45px;
+    font-size: 16px;
+  }
+  section.tenth .contacts .title p {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  section.tenth .form {
+    width: 60%;
+    float: none;
+    margin-left: 20%;
+    margin-top: 40px;
+    height: 350px;
+  }
+  section.tenth .form form .input input,
+  section.tenth .form form .input textarea.ask {
+    width: 80%;
+    margin-left: 10%;
+    border: 1px solid #aeaeae;
+    padding-left: 15px;
+  }
+  section.tenth .form form .input button {
+    margin-left: 0;
+    position: relative;
+    left: 50%;
+    margin-left: -65px;
+  }
+  section.tenth .form form .input p {
+    padding-left: 30.5px;
+  }
+  footer {
+    margin-top: 0;
+    height: 120px;
+  }
+  footer .logo {
+    margin-top: 20px;
+  }
+  footer .copy {
+    padding-top: 70px;
+  }
+  footer .copy a,
+  footer .copy p {
+    font-size: 12px;
+  }
+  footer .copy2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 700px) {
+  section.head .number p {
+    margin-left: 30%;
+  }
+  section.head .cause .maincause {
+    margin-left: 5%;
+    width: 90px;
+    height: 75px;
+  }
+  section.head .cause .maincause p.text {
+    font: 12px/16px 'Ubuntu', sans-serif;
+  }
+  section.head .cause .secondblock {
+    width: 300px;
+    height: 75px;
+    margin-right: 16%;
+  }
+  section.head .cause .secondblock p {
+    font: 12px/16px 'Ubuntu', sans-serif;
+    font-style: italic;
+    padding-right: 20px;
+  }
+  section.second {
+    margin-top: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  section.third {
+    padding-top: 40px;
+  }
+  section.third .form {
+    margin-top: 30px;
+  }
+  section.third .form .cards .card form .titleform p {
+    font: 18px/24px 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+    height: 50px;
+  }
+}
+@media screen and (max-width: 641px) {
+  section.head .cause {
+    margin-top: 60px;
+    position: relative;
+  }
+  section.head .cause .maincause {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 50%;
+    margin: 0 0 0 -100px;
+  }
+  section.head .cause .maincause p.text {
+    padding-top: 0;
+    font: 16px/16px 'Ubuntu', sans-serif;
+    line-height: 50px;
+  }
+  section.head .cause .maincause hr {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    left: 50%;
+    top: 40px;
+    width: 25px;
+    margin-left: -12.5px;
+  }
+  section.head .cause .secondblock {
+    position: absolute;
+    top: 74px;
+    left: 50%;
+    width: 410px;
+    height: 100px;
+    margin: 0;
+    margin-left: -205px;
+  }
+  section.head .cause .secondblock p {
+    padding-top: 33px;
+    font: 16px/16px 'Ubuntu', sans-serif;
+    font-style: italic;
+  }
+  section.second {
+    height: 740px;
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  section.second .title h2 span {
+    font-size: 24px;
+  }
+  section.second .width-col {
+    width: 100%;
+  }
+  section.second .forpercent {
+    padding-top: 5px;
+    width: 100%;
+  }
+  section.second .forpercent .percent {
+    height: 90px;
+  }
+  section.second .forpercent .percent p {
+    padding-left: 10%;
+    font: 18px/20px 'Ubuntu', sans-serif;
+  }
+  section.second .forpercent .percent .fortyseven span,
+  section.second .forpercent .percent .sixteen span,
+  section.second .forpercent .percent .twentyeight span,
+  section.second .forpercent .percent .nein span {
+    width: 60px;
+    height: 100%;
+    margin: 15px;
+    padding-left: 5px;
+    font: 20px/28px 'Ubuntu', sans-serif;
+    line-height: 65px;
+  }
+  section.second .forpercent .percent .fortyseven p,
+  section.second .forpercent .percent .sixteen p,
+  section.second .forpercent .percent .twentyeight p,
+  section.second .forpercent .percent .nein p {
+    padding-top: 20px;
+    margin-left: 100px;
+    padding-right: 5px;
+    font: 16px/16px 'Ubuntu', sans-serif;
+  }
+  section.second .cards p {
+    font-size: 15px;
+  }
+  section.second .cards p b {
+    color: #0bb743;
+  }
+  section.third .form .cards .card form .titleform p {
+    font: 16px/24px 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+  }
+  section.third .form .cards .card form .step4 .titleform p.dop {
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.fiveth {
+    padding-top: 14%;
+  }
+  section.fiveth .videosflow.videos video.left {
+    left: 6%;
+  }
+  section.fiveth .videosflow.videos video.right {
+    left: 34%;
+  }
+  section.fiveth .arrows .hoverzone-left {
+    left: 6%;
+  }
+  section.fiveth .arrows .hoverzone-right {
+    left: 34%;
+  }
+  section.eighth .imageflow img.left {
+    left: 6%;
+  }
+  section.eighth .arrows {
+    right: 30px;
+  }
+}
+@media screen and (max-width: 600px) {
+  section.fiveth {
+    padding-top: 14%;
+  }
+  section.fiveth .videosflow.videos video.left {
+    left: 0;
+  }
+  section.fiveth .videosflow.videos video.right {
+    left: 32%;
+  }
+  section.fiveth .arrows .hoverzone-left {
+    left: 0;
+  }
+  section.fiveth .arrows .hoverzone-right {
+    left: 32%;
+  }
+  section.eighth .imageflow img.left {
+    left: 2%;
+  }
+  section.eighth .arrows {
+    right: 50%;
+    bottom: 0;
+    margin-right: -75px;
+  }
+}
+@media screen and (max-width: 550px) {
+  section.head {
+    padding: 15% 20px 0;
+    background: url("../img/1m_bg.jpg") no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  section.head .width-col {
+    width: 100%;
+    margin-left: 0;
+  }
+  section.head .number .icon {
+    display: block;
+    cursor: pointer;
+    background: url("../img/smallicons.png") no-repeat -40px -80px;
+    height: 40px;
+    width: 40px;
+    float: right;
+  }
+  section.head .number p {
+    display: none;
+  }
+  section.head .title {
+    margin: 80px 0 0;
+  }
+  section.head .title p {
+    font: 24px/24px 'Ubuntu', sans-serif;
+  }
+  section.head .cause {
+    margin-top: 80px;
+  }
+  .menu-main nav {
+    margin-top: 100px;
+  }
+  .menu-main nav ul li {
+    padding-bottom: 10px;
+    font: 24px/30px 'Ubuntu', sans-serif;
+  }
+  .menu-main .closemenu {
+    top: 50px;
+    left: 50%;
+    margin-left: -20px;
+  }
+  section.third {
+    height: 600px;
+    background: url("../img/3m_bg.jpg") no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  section.third .form .cards .card form .titleform {
+    position: relative;
+  }
+  section.third .form .cards .card form .titleform p {
+    font: 14px/20px 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+    height: 50px;
+  }
+  section.third .form .cards .card form .titleform .stepwhat {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    font: 12px/16px 'Ubuntu', sans-serif;
+    color: #aeaeae;
+    margin: 0;
+  }
+  section.third .form .cards .card form .radiobutton label {
+    font: 14px/20px 'Ubuntu', sans-serif;
+    font-weight: 400;
+  }
+  section.third .form .cards .card form .step4 .titleform p.dop {
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.third .form .cards .card form .step4 .input input {
+    margin-right: 20px;
+  }
+  section.fourth .click .icon {
+    margin: 10px 0 0 8px;
+  }
+  section.fourth .cause .cause1 p,
+  section.fourth .cause .cause2 p,
+  section.fourth .cause .cause3 p,
+  section.fourth .cause .cause4 p {
+    padding-right: 0;
+    font-size: 14px;
+  }
+  section.fourth .description {
+    padding: 5px 30px;
+  }
+  section.fourth .description .text h2 {
+    font: 20px/20px 'Ubuntu', sans-serif;
+    padding-right: 0;
+  }
+  section.fourth .description .text p {
+    font: 16px/16px 'Ubuntu', sans-serif;
+  }
+  section.fiveth {
+    background: url("../img/5m_bg.jpg") no-repeat;
+    background-position: 0;
+    background-size: cover;
+    padding-top: 30px;
+  }
+  section.fiveth .mobiletext {
+    width: 80%;
+    margin-left: 10%;
+    display: block;
+    position: relative;
+    top: 290px;
+  }
+  section.fiveth .mobiletext .icon {
+    background: url("../img/smallicons.png") no-repeat;
+    background-position: -80px -80px;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 5px;
+  }
+  section.fiveth .mobiletext p {
+    color: #fff;
+    font-size: 12px;
+    padding-right: 20px;
+  }
+  section.fiveth .title {
+    width: 80%;
+    margin-left: 10%;
+  }
+  section.fiveth .title h2 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  section.fiveth .video-active #full {
+    top: 13px;
+    margin-left: 170px;
+    font-size: 9pt;
+    padding: 7px;
+  }
+  section.fiveth #activ_video {
+    height: auto;
+    width: 400px;
+    margin-left: -201px;
+    top: 11px;
+  }
+  section.fiveth .videosflow.videos {
+    display: none;
+  }
+  section.fiveth .arrows {
+    display: none;
+  }
+  section.fiveth .arrowsmobile {
+    position: relative;
+    bottom: -280px;
+    margin: 0 auto;
+    display: flex;
+  }
+  section.fiveth .arrowsmobile .point {
+    width: 30px;
+    height: 30px;
+    float: left;
+    position: relative;
+    cursor: pointer;
+  }
+  section.fiveth .arrowsmobile .point .circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -6px 0 0 -6px;
+    background: #0bb743;
+    width: 12px;
+    height: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+  }
+  section.fiveth .arrowsmobile .point-active .circle {
+    background: #f54663;
+    width: 15px;
+    height: 15px;
+    margin: -7.5px 0 0 -7.5px;
+  }
+  section.fiveth .controls_box {
+    width: 100%;
+  }
+  section.fiveth .controls {
+    width: 400px;
+    margin-top: 162px;
+    margin-left: -2px;
+    margin-right: 0;
+  }
+  section.fiveth .controls span {
+    display: block;
+  }
+  section.fiveth .controls #playpause.paused {
+    font-size: 10pt;
+    line-height: 30px;
+    width: 13%;
+  }
+  section.fiveth .controls .progress-video {
+    padding-top: 14px;
+  }
+  section.fiveth .controls .progress-video #total {
+    height: 3px;
+  }
+  section.fiveth .controls .progress-video #total #buffered {
+    height: 3px;
+  }
+  section.fiveth .controls .progress-video #total #buffered #current {
+    height: 3px;
+  }
+  section.fiveth .controls .time {
+    font-size: 13px;
+  }
+  section.sixth .form .title h2 {
+    font: 18px/20px 'Ubuntu', sans-serif;
+    font-size: 14px;
+  }
+  section.sixth .form .title p {
+    font: 12px/16px 'Ubuntu', sans-serif;
+  }
+  section.sixth .form .title hr {
+    margin-top: 40px;
+    margin-bottom: -7px;
+  }
+  section.sixth .form form .input input {
+    margin-left: 0;
+  }
+  section.sixth .form form .input button {
+    height: 35px;
+    width: 120px;
+    margin-top: 0;
+  }
+  section.sixth .form .attention {
+    padding-left: 30px;
+  }
+  section.sixth .form .devices {
+    bottom: -70px;
+    left: -60px;
+    background-size: 90%;
+  }
+  section.sixth .pen {
+    display: none;
+  }
+  section.eighth {
+    height: 600px;
+    padding-top: 70px;
+  }
+  section.eighth .title hr {
+    margin-bottom: -10px;
+  }
+  section.eighth .title h2 {
+    margin-bottom: 20px;
+  }
+  section.eighth .imageflow {
+    height: 225px;
+    position: relative;
+  }
+  section.eighth .imageflow img {
+    height: 180px;
+    width: 150.3px;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+  }
+  section.eighth .imageflow img.left {
+    left: 0%;
+  }
+  section.eighth .imageflow img.the {
+    margin-left: -94.04999999999998px;
+    height: 225px;
+    width: 188.1px;
+  }
+  section.eighth .imageflow img.right {
+    left: 69.5%;
+  }
+  section.eighth .info {
+    height: auto;
+    padding-top: 0;
+  }
+  section.eighth .info p.whois {
+    font-weight: bold;
+    margin: 0 auto;
+    width: 90%;
+  }
+  section.eighth .arrowsmobile {
+    margin: 0 auto;
+    display: flex;
+  }
+  section.eighth .arrowsmobile .point {
+    width: 30px;
+    height: 30px;
+    float: left;
+    position: relative;
+    cursor: pointer;
+  }
+  section.eighth .arrowsmobile .point .circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -6px 0 0 -6px;
+    background: #0bb743;
+    width: 12px;
+    height: 12px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+  }
+  section.eighth .arrowsmobile .point-active .circle {
+    background: #f54663;
+    width: 15px;
+    height: 15px;
+    margin: -7.5px 0 0 -7.5px;
+  }
+  section.eighth .arrows {
+    display: none;
+  }
+}
+@media screen and (max-width: 481px) {
+  section.head {
+    height: 520px;
+  }
+  section.head .number {
+    padding-right: 0;
+  }
+  section.head .menu-button {
+    padding-left: 0;
+  }
+  section.head .title p {
+    font: 20px/20px 'Ubuntu', sans-serif;
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+  .menu-main nav {
+    margin-top: 100px;
+  }
+  .menu-main nav ul li {
+    padding-bottom: 10px;
+    font: 18px/24px 'Ubuntu', sans-serif;
+  }
+  section.second .title hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  section.second .title h2 {
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+  section.second .title h2 span {
+    font-size: 16px;
+  }
+  section.second .title p {
+    font: 10px/12px 'Ubuntu', sans-serif;
+  }
+  section.second .forpercent .percent p {
+    font: 16px/20px 'Ubuntu', sans-serif;
+    padding-left: 0;
+    padding-top: 20px;
+    line-height: 14px;
+  }
+  section.second .cards p {
+    font: 12px/16px 'Ubuntu', sans-serif;
+  }
+  section.third {
+    height: 570px;
+    padding-top: 0;
+  }
+  section.third .width-col {
+    width: 90%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 5%;
+  }
+  section.third .title h2 {
+    padding-bottom: 0;
+  }
+  section.third .title p {
+    font: 12px/16px 'Ubuntu', sans-serif;
+  }
+  section.third .form .cards .card form .titleform {
+    position: relative;
+  }
+  section.third .form .cards .card form .titleform .stepbig {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  section.third .form .cards .card form .titleform p {
+    font: 12px/14px 'Ubuntu', sans-serif;
+    width: 80%;
+    padding-left: 5px;
+    font-weight: bold;
+    padding-top: 20px;
+  }
+  section.third .form .cards .card form .titleform .stepwhat {
+    top: 3px;
+    right: 21px;
+  }
+  section.third .form .cards .card form .radiobutton label {
+    font-size: 13px;
+    padding: 1px 0 0 10px;
+  }
+  section.third .form .cards .card form .step3 .input {
+    padding-left: 22px;
+  }
+  section.third .form .cards .card form .step4 .input {
+    padding-left: 30px;
+  }
+  section.third .form .cards .card form .step4 .input input {
+    margin-right: 15px;
+  }
+  section.third .form .cards .card form .step4 .titleform p {
+    width: 100%;
+  }
+  section.third .form .cards .card form .step4 .titleform .titletext {
+    padding-left: 8px;
+    padding-right: 0;
+  }
+  section.third .form .cards .card form .buttons button.lost {
+    margin-left: 30px;
+  }
+  section.third .form .cards .card form .buttons button.next {
+    margin-right: 30px;
+  }
+  section.third .form .cards .card form .buttons button.done {
+    height: 35px;
+    width: 120px;
+  }
+  section.third .form .cards .card form .buttons button {
+    width: 80px;
+    height: 30px;
+  }
+  section.fourth .click p {
+    padding-left: 35px;
+    font: 12px/16px 'Ubuntu', sans-serif;
+    line-height: 40px;
+  }
+  section.fourth .description .text h2 {
+    font: 16px/20px 'Ubuntu', sans-serif;
+  }
+  section.fourth .description .text p {
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.fiveth {
+    height: 520px;
+  }
+  section.fiveth .mobiletext {
+    top: 265px;
+  }
+  section.fiveth .mobiletext p {
+    padding-right: 5px;
+  }
+  section.fiveth .video-active #full {
+    top: 23px;
+    margin-left: 140px;
+  }
+  section.fiveth #activ_video {
+    width: 340px;
+    margin-left: -171px;
+    top: 21px;
+  }
+  section.fiveth .arrowsmobile {
+    bottom: -250px;
+  }
+  section.fiveth .controls {
+    width: 340px;
+    margin-top: 138px;
+    margin-left: -2px;
+  }
+  section.fiveth .controls .time {
+    font-size: 12px;
+  }
+  section.sixth .form .title h2 {
+    font-size: 14px;
+  }
+  section.sixth .form .title p {
+    font: 10px/16px 'Ubuntu', sans-serif;
+    padding-right: 20px;
+  }
+  section.sixth .form .title hr {
+    margin-top: 40px;
+    margin-bottom: -7px;
+  }
+  section.sixth .form form .input input:nth-child(2) {
+    margin-right: 30px;
+  }
+  section.sixth .form form .input button {
+    margin-top: -10px;
+  }
+  section.seventh {
+    height: 442px;
+    padding-top: 20px;
+  }
+  section.seventh .mobile .stages .stage1,
+  section.seventh .mobile .stages .stage2,
+  section.seventh .mobile .stages .stage3,
+  section.seventh .mobile .stages .stage4 {
+    height: 0px;
+  }
+  section.seventh .mobile .stages .stage1 .bg,
+  section.seventh .mobile .stages .stage2 .bg,
+  section.seventh .mobile .stages .stage3 .bg,
+  section.seventh .mobile .stages .stage4 .bg {
+    left: 30%;
+    margin-left: -20px;
+    background-size: 200%;
+    width: 30px;
+    height: 30px;
+  }
+  section.seventh .mobile .stages .stage1 p.text,
+  section.seventh .mobile .stages .stage2 p.text,
+  section.seventh .mobile .stages .stage3 p.text,
+  section.seventh .mobile .stages .stage4 p.text {
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.seventh .mobile .stages .stage1 .point .hr,
+  section.seventh .mobile .stages .stage2 .point .hr,
+  section.seventh .mobile .stages .stage3 .point .hr,
+  section.seventh .mobile .stages .stage4 .point .hr {
+    top: 30px;
+    left: 15px;
+    height: 40px;
+  }
+  section.seventh .mobile .stages .stage1 .point .circle,
+  section.seventh .mobile .stages .stage2 .point .circle,
+  section.seventh .mobile .stages .stage3 .point .circle,
+  section.seventh .mobile .stages .stage4 .point .circle {
+    height: 30px;
+    width: 30px;
+  }
+  section.seventh .mobile .stages .stage1 .point .circle p,
+  section.seventh .mobile .stages .stage2 .point .circle p,
+  section.seventh .mobile .stages .stage3 .point .circle p,
+  section.seventh .mobile .stages .stage4 .point .circle p {
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  section.seventh .mobile .stages .stage2 .bg {
+    left: 73%;
+    background-position: 0 -30px;
+  }
+  section.seventh .mobile .stages .stage3 .bg {
+    background-position: -30px 0;
+  }
+  section.seventh .mobile .stages .stage4 .bg {
+    left: 73%;
+    background-position: -30px -30px;
+  }
+  section.eighth {
+    height: 530px;
+    padding-top: 30px;
+  }
+  section.eighth .title hr {
+    margin-bottom: -10px;
+  }
+  section.eighth .title h2 {
+    margin-bottom: 20px;
+  }
+  section.eighth .imageflow {
+    height: 225px;
+  }
+  section.eighth .imageflow img.right {
+    left: 57.5%;
+  }
+  section.neinth {
+    height: 660px;
+    padding-top: 10px;
+  }
+  section.neinth .title h2 {
+    font: 16px/24px 'Ubuntu', sans-serif;
+  }
+  section.neinth .title3,
+  section.neinth .title2 {
+    padding-top: 20px;
+  }
+  section.neinth .title3 p,
+  section.neinth .title2 p {
+    font: 12px/18px 'Ubuntu', sans-serif;
+  }
+  section.neinth .blockone .withouts {
+    margin-top: 20px;
+  }
+  section.neinth .blockone .withouts .without1,
+  section.neinth .blockone .withouts .without3 {
+    padding-left: 0;
+  }
+  section.neinth .blockone .withouts .without1 .bg,
+  section.neinth .blockone .withouts .without3 .bg {
+    margin-left: -20px;
+  }
+  section.neinth .blockone .withouts .without2,
+  section.neinth .blockone .withouts .without4 {
+    padding-right: 0;
+  }
+  section.neinth .blockone .withouts .without2 .bg,
+  section.neinth .blockone .withouts .without4 .bg {
+    margin-left: -20px;
+  }
+  section.neinth .blockone .withouts .without3 .bg {
+    top: 0px;
+  }
+  section.neinth .blockone .withouts p {
+    font-size: 12px;
+  }
+  section.neinth .blocktwo {
+    height: 235px;
+  }
+  section.neinth .blocktwo form .input input {
+    margin-top: 10px;
+  }
+  section.neinth .blocktwo form .input button {
+    bottom: -85px;
+  }
+  section.neinth .blocktwo .attention p {
+    top: 0;
+    padding-top: 0;
+    font: 10px/12px 'Ubuntu', sans-serif;
+    font-size: 9px;
+  }
+  section.tenth {
+    height: 660px;
+    padding-top: 45px;
+  }
+  section.tenth .contacts {
+    width: 80%;
+    margin-left: 10%;
+  }
+  section.tenth .contacts .title .icon,
+  section.tenth .contacts .geo .icon,
+  section.tenth .contacts .num .icon,
+  section.tenth .contacts .mail .icon {
+    padding-left: 20px;
+  }
+  section.tenth .contacts .title p,
+  section.tenth .contacts .geo p,
+  section.tenth .contacts .num p,
+  section.tenth .contacts .mail p {
+    font-size: 14px;
+  }
+  section.tenth .form {
+    width: 80%;
+    margin-left: 10%;
+  }
+  section.tenth .form form .input p {
+    padding-left: 25.5px;
+  }
+  footer {
+    margin-top: 0;
+    height: 120px;
+  }
+  footer .logo {
+    margin-top: 20px;
+  }
+  footer .copy {
+    padding-top: 70px;
+  }
+  footer .copy a,
+  footer .copy p {
+    font-size: 12px;
+  }
+  footer .copy2 {
+    display: none;
+  }
+}
+@media screen and (max-width: 400px) {
+  section.head .title p {
+    font: 16px/24px 'Ubuntu', sans-serif;
+  }
+  section.head .cause .secondblock {
+    width: 300px;
+    margin-left: -150px;
+    height: 70px;
+  }
+  section.head .cause .secondblock p {
+    padding: 20px 20px;
+    font: 12px/14px 'Ubuntu', sans-serif;
+  }
+  section.second .forpercent .percent p {
+    font-size: 10px;
+  }
+  section.fourth .cause .cause1,
+  section.fourth .cause .cause2,
+  section.fourth .cause .cause3,
+  section.fourth .cause .cause4 {
+    height: 100px;
+  }
+  section.fourth .cause .cause1 .vertical .num,
+  section.fourth .cause .cause2 .vertical .num,
+  section.fourth .cause .cause3 .vertical .num,
+  section.fourth .cause .cause4 .vertical .num {
+    width: 35px;
+    height: 35px;
+    top: 32%;
+    left: 5%;
+    line-height: 35px;
+  }
+  section.fourth .cause .cause1 .vertical p,
+  section.fourth .cause .cause2 .vertical p,
+  section.fourth .cause .cause3 .vertical p,
+  section.fourth .cause .cause4 .vertical p {
+    width: 80%;
+    font-size: 13px;
+    padding-top: 2%;
+  }
+  section.fourth .description {
+    top: 100px;
+    padding: 0 10px 0 20px;
+  }
+  section.fourth .description .text h2 {
+    font-size: 14px;
+    padding-bottom: 0px;
+  }
+  section.fiveth {
+    height: 470px;
+  }
+  section.fiveth .mobiletext {
+    top: 225px;
+    width: 80%;
+    margin-left: 10%;
+  }
+  section.fiveth .mobiletext p {
+    color: #fff;
+    font-size: 10px;
+    padding-right: 0;
+  }
+  section.fiveth .arrowsmobile {
+    bottom: -220px;
+  }
+  section.fiveth .video-active #full {
+    margin-left: 110px;
+  }
+  section.fiveth #activ_video {
+    height: auto;
+    width: 280px;
+    margin-left: -141px;
+  }
+  section.fiveth .controls {
+    width: 280px;
+    margin-top: 111px;
+    margin-left: -2px;
+  }
+}
+@media screen and (max-width: 360px) {
+  section.eighth .imageflow img.right {
+    left: 51.5%;
+  }
+  section.fiveth .mobiletext {
+    width: 90%;
+    margin-left: 5%;
+  }
+  section.fiveth .title {
+    width: 100%;
+    margin-left: 0;
+  }
+  section.fiveth .title h2 {
+    font-size: 13px;
+  }
+  section.fourth .description .text h2 {
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  section.fourth .description .text p {
+    padding-right: 0;
+  }
+}
+@media screen and (max-width: 321px) {
+  section.eighth .imageflow img.right {
+    left: 48.5%;
+  }
+  section.second .cards p {
+    font-size: 11px;
+  }
+  section.second .forpercent .percent p {
+    margin-left: 77px;
+  }
+  section.fiveth .mobiletext {
+    width: 100%;
+    margin-left: 0;
+  }
+  section.fiveth .mobiletext p {
+    padding-right: 5px;
+  }
+  section.third .form .cards .card form .step1 .titleform p,
+  section.third .form .cards .card form .step2 .titleform p,
+  section.third .form .cards .card form .step3 .titleform p {
+    width: 76%;
+  }
+  section.third .form .cards .card form .step4 .titleform p {
+    width: 90%;
+  }
+  section.third .form .cards .card form .buttons button.done {
+    height: 30px;
+    width: 100px;
+    margin-right: 20px;
+  }
+  section.tenth .form {
+    width: 80%;
+    margin-left: 10%;
+  }
+  section.tenth .form form .input p {
+    padding-left: 15.5px;
+  }
+}
